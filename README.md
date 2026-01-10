@@ -1,4 +1,5 @@
-# Glioblastoma scRNA-seq Analysis (Couturier 2020)
+# Glioblastoma scRNA-seq Analysis 3CA 
+# (Couturier 2020)
 
 This repository contains the analysis of single-cell RNA sequencing data from Glioblastoma Multiforme (GBM) samples, based on the dataset provided by Couturier et al. (2020).
 
