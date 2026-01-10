@@ -5,7 +5,7 @@ This repository contains the analysis of single-cell RNA sequencing data from Gl
 ## Project Structure
 
 - `scRNA-seq_GBM_3CA.ipynb`: Main analysis notebook.
-- `Data_Couturier2020_Brain/`: Directory containing the raw data files.
+- `Data_Couturier2020_Brain/`: Directory containing the raw data files. **(Note: Not included in this repository due to file size. Please download the data separately and place it in this directory locally.)**
   - `Exp_data_TPM.mtx`: Gene expression matrix (TPM).
   - `Cells.csv`: Cell metadata.
   - `Genes.txt`: Gene names.
