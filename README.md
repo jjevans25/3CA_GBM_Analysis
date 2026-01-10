@@ -38,4 +38,8 @@ pip install -r requirements.txt
 ## Data Source
 
 The data used in this analysis is from the study:
-*Couturier, C. P., et al. (2020). Single-cell RNA-seq reveals that glioblastoma recapitulates a normal neurodevelopmental hierarchy. Nature Communications, 11(1), 3406.*
+*Couturier, C. P., et al. (2020). [Single-cell RNA-seq reveals that glioblastoma recapitulates a normal neurodevelopmental hierarchy.](https://www.nature.com/articles/s41467-020-17186-5) Nature Communications, 11(1), 3406.*
+
+### Data Download
+You can download the dataset (Brain) from the Curated Cancer Cell Atlas (3CA) at the Weizmann Institute of Science:
+[https://www.weizmann.ac.il/sites/3CA/brain](https://www.weizmann.ac.il/sites/3CA/brain)
